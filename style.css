@@ -1,0 +1,22 @@
+.btn{
+    display: inline-block;
+    background-color: aquamarine;
+    color: azure;
+    text-decoration: none;
+    padding: 23px 25px;
+    margin-top: 25px;
+}
+.btn2{
+    display: inline-block;
+    background-color: aquamarine;
+    color: azure;
+    text-decoration: none;
+    padding: 23px 25px;
+    margin-top: 25px;
+}
+.btn:hover{
+    background-color: black;
+}
+.btn2:hover{
+    background-color: black;
+}
